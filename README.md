@@ -1,8 +1,8 @@
 # Kickstarter Success Predictor
-The goal with this project was determining the liklehood of a Kickstarter Campaign success or failure. We created an app where users can input their own selections. Based on user input, an output is given indicating a percentage rate of success/failure of their campaign.
+The goal with this project was determining the liklehood of a Kickstarter Campaign success. We created an app where users can input their own selections. Based on user input, an output is given indicating a percentage rate of success of their campaign.
 
 ### **[Website](https://kickstarterpredict.herokuapp.com/)**
-By clicking the link above you will enter the website. To determine if your campaign will succeed or fail, enter in specific values that match your campaign such as 'Goals', 'Duration', 'Category' and 'Country'. With these key values entered our app will precisly predict a percentage.
+By clicking the link above you will enter the website. To determine if your campaign will succeed or fail. With a lower percentage rate your campaign has a high chance of faulire. enter in specific values that match your campaign such as 'Goals', 'Duration', 'Category' and 'Country'. With these key values entered our app will precisly predict a percentage.
 
 ## Methods used
 Data was obtained via **[Webrobots.io](https://webrobots.io/kickstarter-datasets/)**.
