@@ -1,3 +1,4 @@
+![image](https://www.themusicase.com/wp-content/uploads/2015/01/kickstarterimagefornewsarticle.jpg)
 # Kickstarter Success Predictor
 The goal with this project was determining the liklehood of a Kickstarter Campaign success. We created an app where users can input their own selections. Based on user input, an output is given indicating a percentage rate of success of their campaign.
 
